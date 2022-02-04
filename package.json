@@ -2,7 +2,7 @@
   "name": "Ristorante",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://salmanhp.github.io/Ristorante",
+  "homepage": "https://salmanhp.github.io/Ristorante",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
